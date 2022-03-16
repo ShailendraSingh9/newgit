@@ -1,2 +1,9 @@
-wdsd sad asd is a sasd day.
-
+steps-
+-------------
+-git init
+-git add filename or for everything inside that directory use -> git add .
+-git status(to check)
+-git commit -m "message"   
+-git log (to check commits)
+-git diff filename(if content is changed of a file and we want to check what changeswe did)
+-git checkout filename(previous version will rollback)
